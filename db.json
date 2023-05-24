@@ -1,0 +1,76 @@
+{
+    "articles":[
+        {
+            "id":2,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":3,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":4,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":5,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":6,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":7,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":8,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        },
+        {
+            "id":1,
+            "title":"Erster Artikel-Title",
+            "beschreibung":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate rem velit ipsam, magnam dicta mollitia porro, nam, at alias saepe commodi eos atque accusantium sequi voluptatum ducimus. Suscipit, explicabo eos.",
+            "bild":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+            "lesezeit": 5,
+            "kategorie":"flutter",
+            "autor":"Adel Namazi"
+        }
+    ]
+}
